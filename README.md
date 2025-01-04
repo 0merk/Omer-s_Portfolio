@@ -107,5 +107,3 @@ Develop a system to predict house prices using three regression models: Linear R
 - Python: `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
 
 ---
-
-Feel free to explore the code and analysis files for these projects in the repository. Contributions and suggestions are welcome!
