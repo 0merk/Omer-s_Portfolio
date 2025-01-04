@@ -50,7 +50,7 @@ Analyze and forecast the relationship between U.S. GDP Growth Rate and Unemploym
 
 ---
 
-# Mindset Institute Büyük veri ve İş Analitiği Uzmanlığı Sertifika Programı
+# [Mindset Institute Büyük veri ve İş Analitiği Uzmanlığı Sertifika Programı](https://github.com/0merk/mindset_big_data)
 
 ## **Project : House Price Prediction**
 
