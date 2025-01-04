@@ -1,11 +1,10 @@
 # Omer-s_Portfolio
-Analytics portfolio
-
-# [Financial Econometrics and House Price Prediction Projects](https://github.com/0merk/Financial_Econometrics)
 
 This repository showcases two major projects:  
 1. Financial Econometric Modeling: Forecasting NVIDIA share prices and analyzing U.S. macroeconomic indicators.  
 2. Machine Learning Models for House Price Prediction: Comparing Linear Regression, Random Forest, and Support Vector Regression (SVR).
+
+# [Financial Econometrics Projects](https://github.com/0merk/Financial_Econometrics)
 
 ---
 
